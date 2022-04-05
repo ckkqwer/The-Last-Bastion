@@ -1,7 +1,8 @@
 # The Last Bastion
 An android game develop in android studio using Java.
-Introduction
 
+Introduction
+=
 Game Story
 -
 The game is called The Last Bastion. A lone cannon is all it has left to defend the village from the skeleton army. Defend the village until the very end!
