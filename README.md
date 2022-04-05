@@ -1,5 +1,5 @@
 # The Last Bastion
- An android game develop in android studio using Java.
+An android game develop in android studio using Java.
 Introduction
 
 Game Story
@@ -14,18 +14,19 @@ Mobile Game Multimedia Design
 Audio
 Four mp3 files were used as audio resources.
 1.	music.mp3
--	As background music when the game started.
--	Stop when the game is paused or game over.
--	Will resume at the stopping point if paused, restart from the beginning if restarted.
--	Is looping
+ - As background music when the game started.
+ -	Stop when the game is paused or game over.
+ -	Will resume at the stopping point if paused, restart from the beginning if restarted.
+ -	Is looping
 2.	hurt.mp3
--	Play one time when a projectile hits an enemy.
+ -	Play one time when a projectile hits an enemy.
 3.	shoot.mp3
--	Play one time when cannon fires.
+ -	Play one time when cannon fires.
 4.	nioce.mp4
--	Play one time when the game is over.
+ -	Play one time when the game is over.
 
 Sprite
+
 The cannon
 ![image](https://user-images.githubusercontent.com/61373385/161753265-d12c9dbb-e8f0-4577-9a6a-8ebbb6be2fab.png)
 
@@ -34,6 +35,7 @@ The projectile
 
 The skeleton
 ![image](https://user-images.githubusercontent.com/61373385/161753321-c79504d4-bf0a-4ff0-9711-d53acc5a5614.png)
+
 -	Used 12 sprites out of 24(odd number) for walking animations.
 ![image](https://user-images.githubusercontent.com/61373385/161753339-2705e677-36e9-4adb-be76-ad3149c1efe1.png)
 
