@@ -72,6 +72,7 @@ Technical report - Mobile Game Program Design
 Game Initialization
 1.	Start from MainActivity, as main menu
 -	layout
+![image](https://user-images.githubusercontent.com/61373385/161753454-9e7811dc-5489-4b58-8008-27642e8f8913.png)
 -	 Highest Score, Reset Record, Guide, Audio, Gyroscope
 -	Press Start to initial GameActivity.
 2.	GameActivity, content view is set as GameView
