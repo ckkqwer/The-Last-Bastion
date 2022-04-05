@@ -27,20 +27,21 @@ Four mp3 files were used as audio resources.
 
 Sprite
 The cannon
- 
+![image](https://user-images.githubusercontent.com/61373385/161753265-d12c9dbb-e8f0-4577-9a6a-8ebbb6be2fab.png)
+
 The projectile
- 
-
-
+![image](https://user-images.githubusercontent.com/61373385/161753294-1f909a94-1ea8-4945-88f5-c00e3a30d5e8.png)
 
 The skeleton
- 
--	Used 12 sprites out of 24(odd number) for walking animations. 
+![image](https://user-images.githubusercontent.com/61373385/161753321-c79504d4-bf0a-4ff0-9711-d53acc5a5614.png)
+-	Used 12 sprites out of 24(odd number) for walking animations.
+![image](https://user-images.githubusercontent.com/61373385/161753339-2705e677-36e9-4adb-be76-ad3149c1efe1.png)
 
 Menu background
- 
+![image](https://user-images.githubusercontent.com/61373385/161753358-02bc6072-eeea-4986-b3ea-e72cd9b13ea1.png)
 
 In-game background 
+![image](https://user-images.githubusercontent.com/61373385/161753376-056942f9-ce77-4573-9d36-2d3dd372c89d.png)
 
 Additional features
 Settings
