@@ -1,6 +1,5 @@
 # The Last Bastion
 An android game develop in android studio using Java.\
-Demo: https://youtu.be/rjWgXOFKl6w
 
 Introduction
 =
