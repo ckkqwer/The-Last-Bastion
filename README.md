@@ -60,7 +60,7 @@ Sensor
 -
 The game provided an optional gyroscope input for the player to control the cannon.
 	-Hold the phone in landscape mode
-	-within 90 degree, turning anti-clockwise is moving down
+	-within 90 degrees, turning anti-clockwise is moving down
 	-while turning clockwise is moving up
 
 Highest Score Record
