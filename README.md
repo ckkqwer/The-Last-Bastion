@@ -51,12 +51,15 @@ Sprite
 
 Additional features
 =
-Setting
--
+
 Mute button
-	-Mute/unmute all sounds
+-
+Mute/unmute all sounds
+
 Gyro button
-	-Enable/disable gyroscope control
+-
+Enable/disable gyroscope control
+
 Sensor
 -
 The game provided an optional gyroscope input for the player to control the cannon.
