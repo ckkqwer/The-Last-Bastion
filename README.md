@@ -172,16 +172,16 @@ Button
 References
 =
 Assets used
-https://www.gamedevmarket.net/asset/cannon-fire-7234/
+https://www.gamedevmarket.net/asset/cannon-fire-7234/ \
 https://www.gamedevmarket.net/asset/free-platformer-game-kit/
  
 Image used
-https://www.pinterest.com/pin/754212268842153960/
+https://www.pinterest.com/pin/754212268842153960/ \
 https://www.dreamstime.com/royalty-free-stock-photography-civil-war-cannon-image1711127
  
 Music used
 https://www.fesliyanstudios.com/royalty-free-music/download/8-bit-nostalgia/2289
  
 Sound effect
-https://www.myinstants.com/instant/minecraft-hurt/
+https://www.myinstants.com/instant/minecraft-hurt/ \
 https://www.myinstants.com/instant/rick-rolled-bwhahahahahaha/
