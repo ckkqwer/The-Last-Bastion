@@ -1,5 +1,5 @@
 # The Last Bastion
-An android game develop in android studio using Java.\
+An android game develop in android studio using Java. All asset are taken from the internet.\
 Demo: https://youtu.be/EkMdMFrd2kg
 
 Introduction
